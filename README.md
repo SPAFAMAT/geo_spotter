@@ -1,17 +1,17 @@
 # Geo Spotter <!-- omit in toc -->
 
-Geo Spotter è un'applicazione che permette di "Spottare" punti di interesse presenti sul territorio come ad esempio chisese, monumenti, eventi, itinerari e tanto altro!
+Geo Spotter è un'applicazione che permette di "spottare" punti di interesse presenti sul territorio come ad esempio chiese, monumenti, eventi e tanto altro!
 
 # Authors <!-- omit in toc -->
 
 |  |  |
 |:-:|:-:|
-|  Alessandro Frontini  | @Alepuort   |
-|  Francesco Saverio Lacchè  |  @Mieti3bbia  |
-|  Paduraru Danut Razvan  |  @PettingStrings  |
+|  Alessandro Frontini  | [@alessandrofrontini](https://www.github.com/alessandrofrontini)   |
+|  Francesco Saverio Lacchè  |  [@Mieti3bbia](https://www.github.com/Mieti3bbia)  |
+|  Paduraru Danut Razvan  |  [@PettingStrings](https://www.github.com/PettingStrings)  |
 
 
-**Table of contents**
+# Table of contents <!-- omit in toc -->
 - [Descrizione del progetto IdS 2023-2024](#descrizione-del-progetto-ids-2023-2024)
   - [Attori](#attori)
   - [Legenda](#legenda)
