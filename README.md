@@ -4,11 +4,11 @@ Geo Spotter è un'applicazione che permette di "spottare" punti di interesse pre
 
 # Authors <!-- omit in toc -->
 
-|  |  |
-|:-:|:-:|
-|  Alessandro Frontini  | [@alessandrofrontini](https://www.github.com/alessandrofrontini)   |
-|  Francesco Saverio Lacchè  |  [@Mieti3bbia](https://www.github.com/Mieti3bbia)  |
-|  Paduraru Danut Razvan  |  [@PettingStrings](https://www.github.com/PettingStrings)  |
+|                          |                                                                  |
+| :----------------------: | :--------------------------------------------------------------: |
+|   Alessandro Frontini    | [@alessandrofrontini](https://www.github.com/alessandrofrontini) |
+| Francesco Saverio Lacchè |         [@Mieti3bbia](https://www.github.com/Mieti3bbia)         |
+|  Paduraru Danut Razvan   |     [@PettingStrings](https://www.github.com/PettingStrings)     |
 
 
 # Table of contents <!-- omit in toc -->

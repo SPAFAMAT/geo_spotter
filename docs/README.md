@@ -1,10 +1,14 @@
 # Documentazione <!-- omit in toc -->
 
-Què è contenuta tutta la documentazione derivata da ogni iterazione.
+### Current Iteration: 2 <!-- omit in toc -->
 
-## Current Iteration: 2
+Quà è contenuta tutta la documentazione derivata da ogni iterazione.
 
-**Table of contents**
+# Table of contents  <!-- omit in toc -->
+- [Use Cases Progress](#use-cases-progress)
+  - [Alessandro Frontini](#alessandro-frontini)
+  - [Francesco Saverio Lacchè](#francesco-saverio-lacchè)
+  - [Paduraru Danut Razvan](#paduraru-danut-razvan)
 
 # Use Cases Progress
 
@@ -34,7 +38,7 @@ Què è contenuta tutta la documentazione derivata da ogni iterazione.
 ## Paduraru Danut Razvan
 
 - [x] Inserisci Contest
-- [ ] Invita Persone (Animatore)
 - [x] Partecipa A Contest
-- [ ] Valida Contenuto Constest
-- [ ] Crea Itinerario
+- [x] Crea Itinerario
+- [ ] Invita Persone 
+- [ ] Valida Contenuto Contest
