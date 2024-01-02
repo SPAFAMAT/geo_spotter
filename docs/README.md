@@ -2,7 +2,10 @@
 
 ### Current Iteration: 2 <!-- omit in toc -->
 
-Quà è contenuta tutta la documentazione derivata da ogni iterazione.
+Quà è contenuta tutta la documentazione derivata da ogni iterazione.<br>
+
+Definizione ruoli/attori: [qui](actors.md) <br>
+Glossario: [qui](glossary.md)
 
 # Table of contents  <!-- omit in toc -->
 - [Use Cases Progress](#use-cases-progress)
