@@ -1,43 +1,10 @@
-# Glossary
+# Glossary <!-- omit in toc -->
 
-# Utente
-E' colui che lorem ipsum
+## Table Of Contents
+- [Punti Fiducia](#punti-fiducia)
 
-## Permessi
-|Visualizza Nodo|Elimina Nodo|Modifica Nodo|Crea Contest|
-|---|---|---|---|---|
-|:white_check_mark:|:white_check_mark:|:white_check_mark:|:x:|:sweat_drops: &#10003;|
+# Punti Fiducia
 
-# Utente Autenticato
-E' colui che lorem ipsum ma è autenticato tramite un account
-
-:ballot_box_with_check: :white_check_mark: :heavy_check_mark: &check; :x: &#10060;
-
-# Permissions
-(Stile Acl)<br>
-r = read
-w = write
-|  |Nodo|Contest|
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|Utente |r |r | no |
-|Utente Autenticato |rw |r | si (+numero telefono) |
-|Utente Autenticato |rw |r | si (+numero telefono) |
-|Utente Autenticato |rw |r | si (+numero telefono) |
-|Utente Autenticato |rw |r | si (+numero telefono) |
-|Utente Autenticato |rw |r | si (+numero telefono) |
-|Utente Autenticato |rw |r | si (+numero telefono) |
-|Utente Autenticato |rw |r | si (+numero telefono) |
-|Utente Autenticato |rw |r | si (+numero telefono) |
-|Utente Autenticato |rw |r | si (+numero telefono) |
-|Utente Autenticato |rw |r | si (+numero telefono) |
-|Utente Autenticato |rw |r | si (+numero telefono) |
-|Utente Autenticato |rw |r | si (+numero telefono) |
-|Utente Autenticato |rw |r | si (+numero telefono) |
-|Utente Autenticato |rw |r | si (+numero telefono) |
-|Utente Autenticato |rw |r | si (+numero telefono) |
-|Utente Autenticato |rw |r | si (+numero telefono) |
-|Utente Autenticato |rw |r | si (+numero telefono) |
-|Utente Autenticato |rw |r | si (+numero telefono) |
-|Utente Autenticato |rw |r | si (+numero telefono) |
-|Utente Autenticato |rw |r | si (+numero telefono) |
-|Utente Autenticato |rw |r | si (+numero telefono) |
+E' un punteggio assegnato ai [Contributor](actors.md#contributor) che mostra quando fidarsi di loro. 
+Per aumentare i punti fiducia bisogna proporre e farsi accettare nuovi contenuti sulla piattaforma.
+Raggiunto un tot di punti, si può fare richiesta per diventare un [Contributor Autorizzato](actors.md#contributor-autorizzato).
