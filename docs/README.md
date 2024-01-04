@@ -18,8 +18,8 @@ Glossario: [qui](glossary.md)
 ## Alessandro Frontini
 
 - [x] Visualizza Nodo
-- [ ] Inserisci Nodo
-- [ ] Report Nodo
+- [x] Inserisci Nodo
+- [x] Report Nodo
 - [ ] Visualizza Foto
 - [ ] Inserisci Foto
 - [ ] Report Foto
