@@ -10,6 +10,6 @@
   </padding>
 
   <Label fx:id="welcomeText" />
-   <Label texo" />
+   <Label text="Vedemo" />
   <Button onAction="#onHelloButtonClick" text="Hello!" />
 </VBox>
